@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "//mitesh21jun.github.io/templating-frontend/static/css/main.57378478.css",
-    "main.js": "//mitesh21jun.github.io/templating-frontend/static/js/main.80eb0634.js",
-    "index.html": "//mitesh21jun.github.io/templating-frontend/index.html",
-    "main.57378478.css.map": "//mitesh21jun.github.io/templating-frontend/static/css/main.57378478.css.map",
-    "main.80eb0634.js.map": "//mitesh21jun.github.io/templating-frontend/static/js/main.80eb0634.js.map"
+    "main.css": "/templating-frontend/static/css/main.57378478.css",
+    "main.js": "/templating-frontend/static/js/main.36765687.js",
+    "index.html": "/templating-frontend/index.html",
+    "main.57378478.css.map": "/templating-frontend/static/css/main.57378478.css.map",
+    "main.36765687.js.map": "/templating-frontend/static/js/main.36765687.js.map"
   },
   "entrypoints": [
     "static/css/main.57378478.css",
-    "static/js/main.80eb0634.js"
+    "static/js/main.36765687.js"
   ]
 }
