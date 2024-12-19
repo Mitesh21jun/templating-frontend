@@ -1,5 +1,4 @@
 import React, { useState, useRef } from 'react';
-import ReactDOM from 'react-dom/client';
 import './App.css';
 
 function App() {
@@ -58,7 +57,7 @@ function App() {
     const handleDownload = () => {
         const canvas = canvasRef.current;
         const link = document.createElement('a');
-        link.download = 'creative.png';
+        link.download = `creative_${new Date().toISOString()}.png`;
         link.href = canvas.toDataURL();
         link.click();
     };
